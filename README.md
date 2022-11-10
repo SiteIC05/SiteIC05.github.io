@@ -1,3 +1,3 @@
 # SiteIC05.github.io
 
-Ceci est un readme test
+Site internet présentant nos résultats suite à l'extraction et l'analyse de données autour de la controverse liée à la réintroduciton des néonicotionoides en France.
